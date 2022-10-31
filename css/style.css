@@ -8,7 +8,7 @@ body{
 }
 
 .header{
-  margin-left:1120px;
+  margin:0px 0px 20px 1120px;
 }
 
 .text{
@@ -29,7 +29,8 @@ body{
 }
 
 .center{
-   margin: 70px 0px 0px 470px;
+   display: flex;
+   justify-content: center;
 }
 
 .search{
@@ -81,7 +82,7 @@ p{
 }
 
 .bottom{
-  margin-top:158px;
+  margin-top:239px;
   font-size:14px;
   border:none;
   background-color:rgb(239, 239, 239);
