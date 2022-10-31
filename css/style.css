@@ -41,8 +41,19 @@ body{
   border-radius: 24px;
 }
 
-.search img{
-  padding: 10px;
+.search_search{
+  cursor: pointer;
+  padding: 15px;  
+}
+
+.search_img{
+  padding: 7px;
+  cursor: pointer;
+}
+
+.search_cam{
+  max-width: 25px;
+  padding: 0px 15px;
   cursor: pointer;
 }
 
@@ -65,6 +76,7 @@ button{
   color: rgb(71, 67, 67);
   border-radius:5px;
   margin-left:10px;
+  font-size: 14px;
 }
 
 .message{
@@ -117,7 +129,7 @@ p{
 }
 
 .terms{
-  margin:0px 20px 0px 650px;
+  margin:0px 20px 0px 680px;
 }
 
 .terms a{
